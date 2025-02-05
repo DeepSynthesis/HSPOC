@@ -1,0 +1,3 @@
+ID,solvent,SMILES,SMILES_base,H_index,filetype,pKa,State,Pre_pKa
+1,H2O,[NH3+]CC(O)=O,[NH3+]CC([O-])=O,10,mopac,2.35,1,1.8405052
+2,H2O,[NH3+]CC([O-])=O,NCC([O-])=O,6,mopac,9.77,0,10.020007
